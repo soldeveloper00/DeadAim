@@ -1,0 +1,14 @@
+# Rust
+target/
+Cargo.lock
+
+# C++ / build files
+*.exe
+*.out
+*.obj
+*.o
+*.log
+
+# IDE/editor files
+.vscode/
+.DS_Store
